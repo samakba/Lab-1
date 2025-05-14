@@ -16,7 +16,7 @@ In the new page that comes up, confirm that you want to create the fork and your
 on GitHub!
    * Note that there is a checkbox for "Copy the main branch only", for this lab this doesn't matter, but in a future lab or for your own project, you may take a second to think if you also want to copy the other branches.
 
-2. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next instructions.
+2. Now that you have your own fork of this repository, close this page, go to your fork, and continue with the next.
 
 3. The next step is to get a local copy of your FizzBuzz repository on your own computer.
 This is called **cloning** the repository.
